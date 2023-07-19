@@ -4,7 +4,7 @@ This repository contains the scripts to reproduce the figures for our paper titl
 # Requirements
 The self-contained [OncoMarkAI](OncoMarkAI/README.md) package is required to run the scripts. The package can be installed by running the following command:
 ```
-git clone https://github.com/CaibinSh/IGSF8-paper.git
+git clone https://github.com/gv20-therapeutics/IGSF8-manuscript.git
 
 cd IGSF8-paper
 
