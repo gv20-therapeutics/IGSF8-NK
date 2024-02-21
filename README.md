@@ -1,12 +1,12 @@
-# IGSF8-manuscript
+# IGSF8-NK
 This repository contains the scripts to reproduce the figures for our paper titled 'IGSF8 is an Innate Immune Checkpoint and Cancer Immunotherapy Target'
 
 # Requirements
 The self-contained [OncoMarkAI](OncoMarkAI/README.md) package is required to run the scripts. The package can be installed by running the following command:
 ```
-git clone https://github.com/gv20-therapeutics/IGSF8-manuscript.git
+git clone https://github.com/gv20-therapeutics/IGSF8-NK.git
 
-cd IGSF8-manuscript
+cd IGSF8-NK
 
 pip install -e .
 ```
