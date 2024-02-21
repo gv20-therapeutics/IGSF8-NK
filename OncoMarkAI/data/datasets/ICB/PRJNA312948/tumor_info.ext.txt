@@ -1,0 +1,29 @@
+SRX_id	SRR_id	GSM_id	Title	patient id	anti-pd-1 response	study site	gender	age (yrs)	disease status	overall survival (days)	vital status	previous mapki	anatomical location	nras	treatment	biopsy time	tissue	tissue_class	disease_name	disease_subtype
+SRX1597727	SRR3184279	GSM2069823	Pt1	Pt1	Progressive Disease	UCLA	F	66	M1b	607	Dead	N	L post. Thigh, inf., SC	Q61L	Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597728	SRR3184280	GSM2069824	Pt2	Pt2	Partial Response	UCLA	M	55	M1c	927	Alive	N	Lung		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597729	SRR3184281	GSM2069825	Pt4	Pt4	Partial Response	UCLA	M	62	M1c	948	Alive	Y	Adrenal		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597730	SRR3184282	GSM2069826	Pt5	Pt5	Partial Response	UCLA	M	61	M1c	439	Alive	N	L Chestwall, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597731	SRR3184283	GSM2069827	Pt6	Pt6	Partial Response	UCLA	M	51	M1c	882	Alive	Y	L forearm, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597732	SRR3184284	GSM2069828	Pt7	Pt7	Progressive Disease	UCLA	F	55	M1c	662	Dead	N	Crown/scalp, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597733	SRR3184285	GSM2069829	Pt8	Pt8	Complete Response	UCLA	M	69	M1a	NA	Alive	N	R leg, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597734	SRR3184286	GSM2069830	Pt9	Pt9	Complete Response	UCLA	M	68	M0	1054	Alive	N	L forearm, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597735	SRR3184287	GSM2069831	Pt10	Pt10	Progressive Disease	UCLA	M	60	M1a	387	Alive	Y	Neck, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597736	SRR3184288	GSM2069832	Pt12	Pt12	Progressive Disease	UCLA	M	59	M1c	327	Dead	N	L lower abdomen, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597737	SRR3184289	GSM2069833	Pt13	Pt13	Complete Response	UCLA	F	53	M1c	917	Alive	N	Lower back, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597738	SRR3184290	GSM2069834	Pt14	Pt14	Progressive Disease	UCLA	F	27	M1c	54	Alive	N	R neck, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597739	SRR3184291	GSM2069835	Pt15	Pt15	Partial Response	UCLA	M	70	M1b	980	Dead	Y	R clavicle, LN	G13D	Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597740	SRR3184292	GSM2069836	Pt16	Pt16	Progressive Disease	UCLA	M	19	M1b	186	Dead	Y	Lung		Pembrolizumab	on-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597741	SRR3184293	GSM2069837	Pt19	Pt19	Partial Response	UCLA	M	45	M1c	1060	Alive	N	Chest, SC	Q61K	Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597742	SRR3184294	GSM2069838	Pt20	Pt20	Progressive Disease	UCLA	F	63	M1c	337	Dead	N	L clavicle	Q61R	Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597743	SRR3184295	GSM2069839	Pt22	Pt22	Progressive Disease	UCLA	M	55	M1c	182	Dead	N	Left Flank, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597744	SRR3184296	GSM2069840	Pt23	Pt23	Progressive Disease	UCLA	M	63	M1c	103	Dead	Y	Left Leg, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597745	SRR3184297	GSM2069841	Pt25	Pt25	Progressive Disease	UCLA	M	74	M1c	262	Dead	Y	L Outer Inguinal		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597746	SRR3184298	GSM2069842	Pt27A	Pt27	Complete Response	UCLA	M	83	M1c	548	Alive	N	R upper arm	T50I	Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597747	SRR3184299	GSM2069843	Pt27B	Pt27	Complete Response	UCLA	M	83	M1c	548	Alive	N	R upper back	T50I	Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597748	SRR3184300	GSM2069844	Pt28	Pt28	Partial Response	UCLA	M	82	M1c	439	Dead	N	Scalp, SC		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597749	SRR3184301	GSM2069845	Pt29	Pt29	Progressive Disease	UCLA	M	84	M1c	269	Dead	Y	Lung		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597750	SRR3184302	GSM2069846	Pt31	Pt31	Progressive Disease	VIC	M	47	M1c	704	Alive	N	Sigmoid colon		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597751	SRR3184303	GSM2069847	Pt32	Pt32	Progressive Disease	VIC	M	47	M1c	171	Dead	Y	Abdominal wall		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597752	SRR3184304	GSM2069848	Pt35	Pt35	Partial Response	VIC	F	65	M1c	427	Alive	Y	Flank		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597753	SRR3184305	GSM2069849	Pt37	Pt37	Partial Response	VIC	F	70	M1c	364	Alive	Y	Small bowel		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
+SRX1597754	SRR3184306	GSM2069850	Pt38	Pt38	Partial Response	VIC	F	57	M1c	448	Alive	Y	Cervical, LN		Pembrolizumab	pre-treatment	Melanoma biopsies	tumor	Skin Cutaneous Melanoma	SKCM
