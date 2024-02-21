@@ -12,7 +12,7 @@ Requirements
 --------------------
 The requirements are listed in `setup.cfg`. To install the package, run the following command:
     
-    git clone https://github.com/gv20-therapeutics/IGSF8-manuscript.git
-    cd IGSF8-manuscript
+    git clone https://github.com/gv20-therapeutics/IGSF8-NK.git
+    cd IGSF8-NK
     pip install -e .
     
