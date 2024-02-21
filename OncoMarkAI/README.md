@@ -1,7 +1,7 @@
 OncoMarkAI
 ===========================================================
 
-GV20's OncoMarkAI is an AI platform for biomarker discovery, cancer indication prioritization, and immunotherapy development. We offer partial access to our platform for academic usage in compliance with Nature's publication policies.
+GV20's OncoMarkAI is an AI platform for biomarker discovery, cancer indication prioritization, and immunotherapy development. We offer partial access to our platform for academic usage in compliance with Cell's publication policies.
 
 Reproducibility
 --------------------
