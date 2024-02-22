@@ -21,7 +21,7 @@ The scripts to reproduce the figures are located in the `notebooks` folder. The 
 | [03_prognostic_association_of_IGSF8_with_survival.ipynb](/notebooks/03_prognostic_association_of_IGSF8_with_survival.ipynb) | Related to Fig.3F and Fig.S3P |
 | [04_prognostic_association_of_IGSF8_with_ICB_response.ipynb](/notebooks/04_prognostic_association_of_IGSF8_with_ICB_response.ipynb) | Related to Fig.3G and Fig.S3Q |
 | [05_pan-cancer_analysis_of_KIR3DL2.ipynb](/notebooks/05_pan-cancer_analysis_of_KIR3DL2.ipynb) | Related to Fig.S3F and Fig.S3G |
-| [06_association_between_IGSF8_and_MHCI.ipynb](/notebooks/06_association_between_IGSF8_and_MHCI.ipynb) | Related to Fig.3H, Fig.S3I, Fig.S1H |
+| [06_association_between_IGSF8_and_B2M.ipynb](/notebooks/06_association_between_IGSF8_and_B2M.ipynb) | Related to Fig.3H, Fig.S3I, Fig.S1H |
 
 # License
 This project is licensed under the terms of [License](/LICENSE).  
