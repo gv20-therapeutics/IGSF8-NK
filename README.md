@@ -1,6 +1,10 @@
 # IGSF8-NK
 This repository contains the scripts to reproduce the figures for our paper titled 'IGSF8 is an Innate Immune Checkpoint and Cancer Immunotherapy Target'
 
+[![gv20tx](https://img.shields.io/badge/GV20_Therapeutics-blue)](https://gv20tx.com/)
+![immunotherapy](https://img.shields.io/badge/cancer--immunotherapy-green)
+[![clinicaltrial](https://img.shields.io/badge/clinicaltrials.gov-GV20--0251-green)](https://clinicaltrials.gov/study/NCT05669430)
+
 # Requirements
 The self-contained [OncoMarkAI](OncoMarkAI/README.md) package is required to run the scripts. The package can be installed by running the following command:
 ```
