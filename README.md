@@ -1,7 +1,6 @@
 # IGSF8-NK
 This repository contains the scripts to reproduce the figures for our paper titled 'IGSF8 is an Innate Immune Checkpoint and Cancer Immunotherapy Target'
 
-[![gv20tx](https://img.shields.io/badge/GV20_Therapeutics-blue)](https://gv20tx.com/)
 ![immunotherapy](https://img.shields.io/badge/Cancer--Immunotherapy-purple)
 [![clinicaltrial](https://img.shields.io/badge/Clinicaltrials.gov-GV20--0251-green)](https://clinicaltrials.gov/study/NCT05669430)
 
@@ -30,7 +29,7 @@ The scripts to reproduce the figures are located in the `notebooks` folder. The 
 
 # License
 This project is licensed under the terms of [License](/LICENSE).  
-Copyright 2024 GV20 Therapeutics LLC.
+Copyright [![gv20tx](https://img.shields.io/badge/GV20_Therapeutics-blue)](https://gv20tx.com/).
 
 # Reference
 
