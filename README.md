@@ -2,7 +2,7 @@
 This repository contains the scripts to reproduce the figures for our paper titled 'IGSF8 is an Innate Immune Checkpoint and Cancer Immunotherapy Target'
 
 [![gv20tx](https://img.shields.io/badge/GV20_Therapeutics-blue)](https://gv20tx.com/)
-![immunotherapy](https://img.shields.io/badge/cancer--immunotherapy-green)
+![immunotherapy](https://img.shields.io/badge/cancer--immunotherapy-purple)
 [![clinicaltrial](https://img.shields.io/badge/clinicaltrials.gov-GV20--0251-green)](https://clinicaltrials.gov/study/NCT05669430)
 
 # Requirements
