@@ -1,7 +1,7 @@
 import sys
 from importlib.metadata import version
 
-package_name = "OncoMarkAI"
+package_name = "OncoMark"
 __version__ = version(package_name)
 
 from . import tools as tl

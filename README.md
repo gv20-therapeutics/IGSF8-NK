@@ -5,7 +5,7 @@ This repository contains the scripts to reproduce the figures for our paper titl
 [![clinicaltrial](https://img.shields.io/badge/Clinicaltrials.gov-GV20--0251-green)](https://clinicaltrials.gov/study/NCT05669430)
 
 # Requirements
-The self-contained [OncoMarkAI](OncoMarkAI/README.md) package is required to run the scripts. The package can be installed by running the following command:
+The self-contained [OncoMark](OncoMark/README.md) package is required to run the scripts. The package can be installed by running the following command:
 ```
 git clone https://github.com/gv20-therapeutics/IGSF8-NK.git
 

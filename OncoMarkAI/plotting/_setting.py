@@ -3,7 +3,7 @@ import matplotlib.pylab as pylab
 from matplotlib.colors import ListedColormap
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
-from OncoMarkAI.utils import get_logger
+from OncoMark.utils import get_logger
 
 
 # Figure setting function. A default figure setting is provided. You can also update the default setting by providing a dictionary of parameters.
