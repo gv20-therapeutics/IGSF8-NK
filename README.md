@@ -31,6 +31,9 @@ The scripts to reproduce the figures are located in the `notebooks` folder. The 
 This project is licensed under the terms of [License](/LICENSE).  
 Copyright [![gv20tx](https://img.shields.io/badge/GV20_Therapeutics-blue)](https://gv20tx.com/).
 
+# Selected public talks
+[Dr. Shirley Liu @ CCMB Seminar Series, 2023](https://youtu.be/mZOT7dqI4u4?feature=shared)
+
 # Reference
 
 ```
