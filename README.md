@@ -35,7 +35,7 @@ Copyright [![gv20tx](https://img.shields.io/badge/GV20_Therapeutics-blue)](https
 [Dr. Shirley Liu @ CCMB Seminar Series, 2023](https://youtu.be/mZOT7dqI4u4?feature=shared)
 
 # Reference
-
+The full paper can be accessed [here](https://doi.org/10.1016/j.cell.2024.03.039). Please cite our paper if you use the code or data for your research.
 ```
 @article {
 	author = {Yulong Li, Xiangyang Wu, Caibin Sheng, Hailing Liu, Huizhu Liu, Yixuan Tang, Chao Liu, Qingyang Ding, Bin Xie, Xi Xiao, Rongbin Zheng, Quan Yu, Zengdan Guo, Jian Ma, Jin Wang, Jinghong Gao, Mei Tian, Wei Wang, Jia Zhou, Li Jiang, Mengmeng Gu, Sailing Shi, Michael Paull, Guanhua Yang, Wei Yang, Steve Landau, Xingfeng Bao, Xihao Hu, X. Shirley Liu, Tengfei Xiao},
